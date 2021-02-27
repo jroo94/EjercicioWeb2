@@ -1,0 +1,12 @@
+C:\Proyectos\EjercicioWeb2\EjercicioWeb2\EjercicioWeb2\bin\Debug\EjercicioWeb2.exe.config
+C:\Proyectos\EjercicioWeb2\EjercicioWeb2\EjercicioWeb2\bin\Debug\EjercicioWeb2.exe
+C:\Proyectos\EjercicioWeb2\EjercicioWeb2\EjercicioWeb2\bin\Debug\EjercicioWeb2.pdb
+C:\Proyectos\EjercicioWeb2\EjercicioWeb2\EjercicioWeb2\bin\Debug\EjercicioWeb2.xml
+C:\Proyectos\EjercicioWeb2\EjercicioWeb2\EjercicioWeb2\obj\Debug\EjercicioWeb2.vbprojAssemblyReference.cache
+C:\Proyectos\EjercicioWeb2\EjercicioWeb2\EjercicioWeb2\obj\Debug\EjercicioWeb2.Form1.resources
+C:\Proyectos\EjercicioWeb2\EjercicioWeb2\EjercicioWeb2\obj\Debug\EjercicioWeb2.Resources.resources
+C:\Proyectos\EjercicioWeb2\EjercicioWeb2\EjercicioWeb2\obj\Debug\EjercicioWeb2.vbproj.GenerateResource.cache
+C:\Proyectos\EjercicioWeb2\EjercicioWeb2\EjercicioWeb2\obj\Debug\EjercicioWeb2.vbproj.CoreCompileInputs.cache
+C:\Proyectos\EjercicioWeb2\EjercicioWeb2\EjercicioWeb2\obj\Debug\EjercicioWeb2.exe
+C:\Proyectos\EjercicioWeb2\EjercicioWeb2\EjercicioWeb2\obj\Debug\EjercicioWeb2.xml
+C:\Proyectos\EjercicioWeb2\EjercicioWeb2\EjercicioWeb2\obj\Debug\EjercicioWeb2.pdb
